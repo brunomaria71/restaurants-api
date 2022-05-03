@@ -1,5 +1,4 @@
 //import tools from Firebase
-import { firestore } from "firebase-admin";
 import { initializeApp, getApps, cert } from "firebase-admin/app";
 //import firestore from firebase
 import { getFirestore } from "firebase-admin/firestore";
